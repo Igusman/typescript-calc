@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        //syntax ("es5")
+        "target":"ES5",
+        "outDir": "build"
+    }
+}
