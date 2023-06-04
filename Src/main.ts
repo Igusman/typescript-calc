@@ -27,3 +27,8 @@ function func(age: number, name: string) {
     console.log(name + " is " + age + " years old ")
 }
 func(28, "israel")
+
+function fun2(){
+    console.log('another function')
+}
+
